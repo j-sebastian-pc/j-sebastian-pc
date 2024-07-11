@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Sebastián Cristancho</h1>
-<h3 align="center">Estudiante de Análisis y Desarrollo de Software con un sólido conocimiento en tecnologías clave de programación y desarrollo web</h3>
+<h3 align="center">Web developer| Front End Dev | JavaScript | React.js | Vue.js | Html | Css | Mysql | GitHub | Php | CodeIgniter 4</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-sebastian-pc&label=Profile%20views&color=0e75b6&style=flat" alt="j-sebastian-pc" / > </p>
 
