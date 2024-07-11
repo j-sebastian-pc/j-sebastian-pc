@@ -1,5 +1,6 @@
 <h1 align="center">Hola 👋, soy Sebastián Cristancho</h1>
-<h3 align="center">Web developer| Front End Dev | JavaScript | React.js | Vue.js | Html | Css | Mysql | GitHub | Php | CodeIgniter 4</h3>
+<h3 align="center">desarrollador front-end con 1 año de experiencia en la creación de interfaces de usuario atractivas y funcionales. Mi enfoque se centra en la implementación de diseños web, la optimización del rendimiento. <br> 
+Web developer| Front End Dev | JavaScript | React.js | Vue.js | Html | Css | Mysql | GitHub | Php | CodeIgniter 4 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-sebastian-pc&label=Profile%20views&color=0e75b6&style=flat" alt="j-sebastian-pc" / > </p>
 
