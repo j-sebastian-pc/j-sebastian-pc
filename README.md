@@ -11,7 +11,7 @@ Web developer| Front End Dev | JavaScript | React.js | Vue.js | Html | Css | Mys
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="izquierda">
 <a href="https://twitter.com/parasebass" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/twitter.svg" alt="parasebass" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sebastian cristancho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian crristancho" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sebastian-cristancho-77227780/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile- readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sebastian crristancho" height="30" width="40" /></a>
 <a href="https://instagram.com/sebastian_0_4_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="sebastian_0_4_" height="30" width="40" /></a>
 </p>
 
