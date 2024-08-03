@@ -11,22 +11,18 @@
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dik0pfgcp/image/upload/f_auto,q_auto/hydirhuaovzdxsswwicv" 
+ 
        alt="LinkedIn" 
        style="border-radius: 50%; width: 80px; height: 80px; border: 2px solid #0077b5; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
 </p>
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
-  <a href="https://twitter.com/parasebass" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="30"/>
-  </a>
+  
   <a href="https://www.linkedin.com/in/sebastian-cristancho-77227780/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
-  <a href="https://instagram.com/sebastian_0_4_" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="30"/>
-  </a>
+ 
 </p>
 
 <h3 align="center">Idiomas y herramientas:</h3>
