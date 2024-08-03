@@ -10,19 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=j-sebastian-pc&label=Profile%20views&color=0e75b6&style=flat" alt="j-sebastian-pc"/>
 </p>
 
-<p align="center">
- 
-       alt="LinkedIn" 
-       style="border-radius: 50%; width: 80px; height: 80px; border: 2px solid #0077b5; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
-</p>
 
 <h3 align="center">Conéctate conmigo:</h3>
+
 <p align="center">
-  
   <a href="https://www.linkedin.com/in/sebastian-cristancho-77227780/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
- 
 </p>
 
 <h3 align="center">Idiomas y herramientas:</h3>
@@ -57,7 +51,7 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
-   <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
+  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Studio" width="40" height="40"/>
   </a>
 </p>
