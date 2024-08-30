@@ -3,7 +3,7 @@
 <h3 align="center">
   Desarrollador front-end con 1 año de experiencia en la creación de interfaces de usuario atractivas y funcionales. Mi enfoque se centra en la implementación de diseños web y la optimización del rendimiento.
   <br>
-  Web Developer | JavaScript | React.js | Vue.js | HTML | CSS | MySQL | GitHub | PHP | Postman | Linux | Android Studio
+   | JavaScript | React.js | Vue.js | HTML | CSS | MySQL | GitHub | PHP | Postman | Linux | Android Studio
 </h3>
 
 <p align="center">
