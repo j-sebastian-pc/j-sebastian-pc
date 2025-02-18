@@ -1,25 +1,34 @@
 <h1 align="center">Hola 👋, soy Sebastián Cristancho</h1>
 
 <h3 align="center">
-  Desarrollador front-end con 1 año de experiencia en la creación de interfaces de usuario atractivas y funcionales. Mi enfoque se centra en la implementación de diseños web y la optimización del rendimiento.
-  <br>
-   | JavaScript | React.js | Vue.js | HTML | CSS | MySQL | GitHub | PHP | Postman | Linux | Android Studio
+  Tecnólogo en Análisis y Desarrollo de Software | Desarrollador Full Stack
 </h3>
+
+<p align="center">
+  Con un año de experiencia en desarrollo front-end, incluyendo seis meses como freelance y seis meses en prácticas como desarrollador full stack. Mis habilidades abarcan JavaScript, React, Vue.js, y conocimientos en Java, C#, PHP (Laravel, CodeIgniter) y MySQL. Siempre estoy buscando aprender nuevas tecnologías y mejorar mis habilidades.
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=j-sebastian-pc&label=Profile%20views&color=0e75b6&style=flat" alt="j-sebastian-pc"/>
 </p>
 
+---
 
-<h3 align="center">Conéctate conmigo:</h3>
+<h3 align="center">Conéctate conmigo</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastian-cristancho-77227780/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
+  <a href="https://github.com/j-sebastian-pc" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="30"/>
+  </a>
 </p>
 
-<h3 align="center">Idiomas y herramientas:</h3>
+---
+
+<h3 align="center">Tecnologías y Herramientas</h3>
+
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
@@ -55,6 +64,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android Studio" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+<h3 align="center">Estadísticas de GitHub</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j-sebastian-pc&show_icons=true&locale=en&layout=compact" alt="j-sebastian-pc" />
