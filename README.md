@@ -22,7 +22,7 @@ no relacionales.
 <h3 align="center">Conéctate conmigo</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastian-cristancho-77227780" target="_blank">
+  <a href="www.linkedin.com/in/sebastian-pc-77227780" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30"/>
   </a>
   <a href="https://github.com/j-sebastian-pc" target="_blank">
